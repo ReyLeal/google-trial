@@ -1,0 +1,23 @@
+.google-logo {
+  float:left;
+  height: 2.25em;
+}
+.search-bar {
+  float: left;
+  margin-left: 1em;
+}
+#search {
+height: 3em;
+width: 60em;
+padding: 0em;
+}
+#button {
+  padding: 0em;
+  height: 3.5em;
+  margin: -0.5em;
+  background-color: #2979Ff;
+  color: white;
+  width: 3.5em;
+  align-items: center;
+  border: none;
+}
